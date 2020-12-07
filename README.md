@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🌱 **Learning**
 - Deep learning for Computer Vision, NLP
 - Self driving car nano degree from udacity
-- Pursuit of exploring Perception engineering
+- In pursuit of exploring Perception engineering
 
 👯 would love to collaborate on computer vision, nlp, self driving car based applications.
 
