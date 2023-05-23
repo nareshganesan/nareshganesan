@@ -17,7 +17,16 @@ Here are some ideas to get you started:
 
 
 🔭 **Now**
-- Currently working as Senior Software Architect @ [oneDPO]
+- Currently working as Senior Manager @ [Jio]
+- Building multi layered intelligence platform involving
+- Knowledge Graph
+- Feature Lake
+- Rule Engine
+- Compute functions
+- Machine learning / Deep Learning models
+- DAG based workflow processing
+
+**[oneDPO]**
 - Building AI pipeline to identify PII data on structured and unstructured data
 - Building Computer Vision, NLP and Self Driving car portfolio
 
@@ -28,15 +37,15 @@ Here are some ideas to get you started:
 - AI inferencing @ scale
 
 🌱 **Learning**
-- Deep learning for Computer Vision, NLP
-- Self driving car nano degree from udacity
+- Deep learning for Computer Vision, NLP, Knowledge Graph etc
 - In pursuit of exploring Perception engineering
 
-👯 would love to collaborate on computer vision, nlp, self driving car based applications.
+👯 would love to collaborate on computer vision, nlp based applications.
 
 📫 reach @ [email]
 
 [![nareshganesan github stats](https://github-readme-stats.vercel.app/api?username=nareshganesan)](https://github.com/nareshganesan/github-readme-stats)
 
+[Jio]:https://www.jio.com/
 [oneDPO]:https://www.onedpo.com
 [email]:mailto:nareshkumarganesan@gmail.com
