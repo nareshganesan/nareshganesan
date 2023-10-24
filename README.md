@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 [![nareshganesan github stats](https://github-readme-stats.vercel.app/api?username=nareshganesan)](https://github.com/nareshganesan/github-readme-stats)
 
 [Jio]:https://www.jio.com/
-[oneDPO]:https://www.onedpo.com
+[oneDPO]:https://www.protecto.ai/
 [email]:mailto:nareshkumarganesan@gmail.com
