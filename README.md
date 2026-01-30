@@ -1,51 +1,76 @@
-### Hello, I'm Naresh Ganesan 👋
+# Hi, I’m Naresh Ganesan
 
-<!--
-**nareshganesan/nareshganesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **founder, builder, and applied AI architect** focused on designing and shipping
+**production-grade AI systems**.
 
-Here are some ideas to get you started:
+My work sits at the intersection of **AI, distributed systems, and product engineering**—
+building systems that move from idea → architecture → real-world usage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## What I’m Working On
 
-🔭 **Now**
-- Currently working as Senior Manager @ [Jio]
-- Building multi layered intelligence platform involving
-- Knowledge Graph
-- Feature Lake
-- Rule Engine
-- Compute functions
-- Machine learning / Deep Learning models
-- DAG based workflow processing
+- Building **AI-first products** centered around:
+  - Intelligent search and knowledge systems  
+  - Agent-driven workflows for complex business processes  
+  - Cost-aware, observable LLM platforms  
+- Designing systems where **reliability, scale, and determinism** matter as much as model quality
+- Experimenting with agent orchestration, retrieval architectures, and workflow engines
 
-**[oneDPO]**
-- Building AI pipeline to identify PII data on structured and unstructured data
-- Building Computer Vision, NLP and Self Driving car portfolio
+I tend to stay quiet about specifics until things are live—but everything here is grounded in
+real production constraints.
 
- :gear: **Areas of Expertise**
-- Algorithms
-- Distributed Systems
-- Architecture design
-- AI inferencing @ scale
+---
 
-🌱 **Learning**
-- Deep learning for Computer Vision, NLP, Knowledge Graph etc
-- In pursuit of exploring Perception engineering
+## Areas of Focus
 
-👯 would love to collaborate on computer vision, nlp based applications.
+- **Generative AI & LLM systems** (RAG, agents, orchestration)
+- **Search & knowledge platforms** (from scratch → production)
+- **Distributed systems & workflow engines**
+- **AI inference at scale** (cost, latency, observability)
+- **System architecture & design trade-offs**
 
-📫 reach @ [email]
+---
 
-[![nareshganesan github stats](https://github-readme-stats.vercel.app/api?username=nareshganesan)](https://github.com/nareshganesan/github-readme-stats)
+## How I Think About Systems
 
-[Jio]:https://www.jio.com/
-[oneDPO]:https://www.protecto.ai/
-[email]:mailto:nareshkumarganesan@gmail.com
+- AI is a **system**, not a model  
+- Determinism beats cleverness in production  
+- Control flow belongs in code, not prompts  
+- If you can’t explain the failure mode, it’s not done  
+
+---
+
+## Currently Exploring
+
+- Agent architectures that don’t collapse under complexity  
+- Retrieval + reasoning patterns beyond vanilla RAG  
+- Cost governance and observability for LLM-heavy systems  
+- Perception-driven systems across text, vision, and structured data  
+
+---
+
+## Collaboration
+
+I’m always open to collaborating on:
+- AI-first products with real users  
+- Search, retrieval, and agent-heavy systems  
+- Infrastructure or tooling that makes AI systems saner to build and operate  
+
+If you care about **shipping**, not just experimenting, we’ll probably get along.
+
+---
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/naresh-ganesan  
+- **Blog:** https://insightstream.dev  
+- **Email:** ng@insightstream.dev  
+
+For work-related conversations, please email first with brief context.  
+Unsolicited calendar invites are declined.
+
+---
+
+*Most of my serious work lives in private repos or client environments.
+This profile reflects how I think, not the full surface area of what I build.*
